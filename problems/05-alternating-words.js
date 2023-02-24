@@ -10,11 +10,11 @@ function alternatingWords(words) {
 }
 
 /** Comment in these logs for local testing */
-// const words1 = ['Belka', 'STRELKA', 'laika', 'DEZIK', 'Tsygan'];
+// let words1 = ['Belka', 'STRELKA', 'laika', 'DEZIK', 'Tsygan'];
 // alternatingWords(words1);
 // console.log(words1); // [ 'BELKA', 'strelka', 'LAIKA', 'dezik', 'TSYGAN' ]
 
-// const words2 = ['Yellowstone', 'Yosemite', 'Zion', 'Acadia'];
+// let words2 = ['Yellowstone', 'Yosemite', 'Zion', 'Acadia'];
 // alternatingWords(words2);
 // console.log(words2); // [ 'YELLOWSTONE', 'yosemite', 'ZION', 'acadia' ]
 
